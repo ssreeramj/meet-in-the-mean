@@ -1,0 +1,5 @@
+*.ipynb
+.streamlit
+*.txt
+*.json
+key_to_toml.py
