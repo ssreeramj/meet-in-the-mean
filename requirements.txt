@@ -3,3 +3,4 @@ streamlit_folium
 google-auth
 google-cloud-firestore
 firebase-admin
+googlemaps
