@@ -65,6 +65,8 @@ def delete_particular_user(coll_ref, user_number):
             doc.delete()
 
 
+st.title("Meet in the Middle")
+
 with st.form("input_form", clear_on_submit=True):
    name = st.text_input(label="Name", key="name_key")
    location = st.text_input(label="Location", key="location_key")
